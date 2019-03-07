@@ -27,7 +27,6 @@ div
     margin-left: auto;
     margin-bottom: auto;
     margin-top: auto;
-    overflow:auto;
 }
 
 .col-lg-3 {background-color: grey;} 
@@ -115,7 +114,7 @@ div
     border: 1px solid black;
     margin: 20px;
     padding: 10px;
-
+    
   }
   .col-md-1 {
     width: 8.33%;
@@ -160,7 +159,7 @@ div
     border: 1px solid black;
     margin: 20px;
     padding: 10px;
-
+    overflow:auto;
   }
   .col-sm-1 {
     width: 8.33%;
@@ -205,6 +204,7 @@ div
     border: 1px solid black;
     margin: 20px;
     padding: 15px;
+    overflow:auto;
   }
   .col-xs-1 {
     width: 8.33%;
