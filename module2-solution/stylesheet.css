@@ -22,10 +22,7 @@ div
 	font-weight: bold;
     width: 210%;
     height: 310px;
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: auto;
-    margin-top: auto;
+ 
 }
 
 .col-lg-3 {background-color: grey;} 
