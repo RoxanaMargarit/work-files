@@ -29,10 +29,10 @@ div
     margin-top: auto;
 }
 
-.col-lg-3 {background-color: grey;} 
-.col-md-6 {background-color: grey; }
-.col-sm-6 {background-color: grey; }
-.col-xs-6 {background-color: grey; }
+.col-lg-3 {background-color: grey; overflow:auto;} 
+.col-md-6 {background-color: grey; overflow:auto;}
+.col-sm-6 {background-color: grey; overflow:auto;}
+.col-xs-6 {background-color: grey; overflow:auto;}
 
 #h2chicken
 {
